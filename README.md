@@ -1,9 +1,4 @@
-# WHMCS-Invoice-Go-To-Service-Button
-A WHMCS admin hook that adds a quick "Go to Service" button next to invoice items on the invoice details page, linking directly to the related service for easy management.
-
-
-# WHMCS Invoice Item Service Link Button
-
+# WHMCS Invoice Go To Service Button
 This WHMCS hook adds a convenient "Go to Service" button next to each invoice item on the admin invoice details page. The button links directly to the associated service management page for quick access.
 
 ## Features
